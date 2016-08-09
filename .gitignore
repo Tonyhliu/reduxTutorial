@@ -1,0 +1,16 @@
+# Ignore bundler config.
+/.bundle
+/app/assets/javascripts/bundle.js
+/app/assets/javascripts/bundle.js.map
+/static/bundle.js
+/static/bundle.js.map
+/node_modules
+
+# Ignore all logfiles and tempfiles.
+/log/*
+!/log/.keep
+/tmp
+/
+
+# Ignore application configuration
+/config/application.yml
